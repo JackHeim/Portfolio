@@ -3,7 +3,7 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
-  color: white;
+  color:white;;
   background-color: #131925;
 }
 
@@ -20,7 +20,7 @@ h5,
 h6 {
   font-family: 'Times New Roman', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  margin: 0 0 35px;
+  margin: 0 0 55px;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -43,7 +43,7 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: white;
+  color:white;;
 }
 
 a:focus, a:hover {
@@ -62,7 +62,7 @@ a:focus, a:hover {
 #mainNav .navbar-toggler {
   font-size: 14px;
   padding: 11px;
-  color: white;
+  color:white;
   border: 1px solid white;
 }
 
@@ -72,7 +72,7 @@ a:focus, a:hover {
 }
 
 #mainNav a {
-  color: white;
+  color:white;;
   
 }
 
@@ -116,7 +116,7 @@ a:focus, a:hover {
     background-color: rgba(255, 255, 255, 0.3);
   }
   #mainNav .nav-link.active:hover {
-    color: white;
+    color:white;;
   }
 }
 
@@ -126,7 +126,7 @@ a:focus, a:hover {
   height: auto;
   padding: 200px 0;
   text-align: center;
-  color: white;
+  color:white;;
   background: url("../img/03\ -\ Copy.jpeg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -170,14 +170,14 @@ a:focus, a:hover {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
-  color: white;
-  border: 2px solid white;
+  color:white;;
+  border: 2px solidwhite;;
   border-radius: 100% !important;
   background: transparent;
 }
 
 .btn-circle:focus, .btn-circle:hover {
-  color: white;
+  color:white;;
   outline: none;
   background: rgba(255, 255, 255, 0.1);
 }
@@ -189,7 +189,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/03\ -\ Copy\ -\ Copy.jpeg") no-repeat center center scroll;
+  background: url(../img/03\ -\ Copy\ -\ Copy.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -208,12 +208,12 @@ a:focus, a:hover {
 }
 
 .btn-default {
-  color: white;
+  color:white;;
   
 }
 
 .btn-default:focus, .btn-default:hover {
-  color: white;
+  color:white;;
   border: 1px solid #131925;
   outline: none;
   background-color: #131925;
@@ -277,9 +277,9 @@ img::-moz-selection {
 .btn-outline{
  width: 90px;
  height: 90px;
- color: white;
+ color:white;;
  font-size: 60px;
- border: solid 2px white;
+ border: solid 2pxwhite;;
  border-radius: 75px;
  background: transparent;
  transition: all 0.3s ease-in-out;
